@@ -1,0 +1,19 @@
+{
+  "name": "max_function_discriminant",
+  "version": "1.0.0",
+  "description": "Math function diskriminant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaksimKutlaev/Node_JS.git#main"
+  },
+  "author": "Max Kutlaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaksimKutlaev/Node_JS/issues"
+  },
+  "homepage": "https://github.com/MaksimKutlaev/Node_JS/tree/main#readme"
+}
