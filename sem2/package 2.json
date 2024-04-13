@@ -1,0 +1,11 @@
+{
+  "name": "max_sem2_gb",
+  "version": "1.0.0",
+  "description": "Math function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max",
+  "license": "ISC"
+}
